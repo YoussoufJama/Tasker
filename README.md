@@ -2,7 +2,7 @@
 This is Tasker, my personal project expanding upon my studies with technical labs, testing my knowledge and comptuing acuity.
 If successful it may be repurposed into an application which tracks student progress, making it useful for aspiring engineers.
 
-
+----------------------
 #1- Sunday, 08/03/2026
 Roadmap
 Before we begin, its important to outline a plan for this project. A consistent 'scaffolding' is a must for project management and completion.
@@ -15,4 +15,4 @@ Version control using GitHub
 Realistic IT workflows
 
 Phase One will last 30 days.
----
+

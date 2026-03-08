@@ -9,7 +9,7 @@ Sunday, 08/03/2026
 Before we begin, its important to outline a plan for this project. A consistent 'scaffolding' is a must for project management and completion.
 Our goal should be clear, which is to apply, challenge and refine my existing skills in computing. This refinement should envelop other new skills accquired as I continue my studies.
 
-Currently, Phase One is a set of tasks relating to:
+Currently, Phase One is a set of tasks relating to:   
 Troubleshooting   
 
 Documentation   

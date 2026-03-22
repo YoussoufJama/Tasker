@@ -20,19 +20,19 @@ Phase One will last 30 days.
 
 
 ----------------------
-## 2-Task One
-Sunday, 22/03/2026
+## 2-Task One   
+Sunday, 22/03/2026   
 Structured LAN
 
-Programs Used:
-Cisco Packet Tracer.
+Programs Used:   
+Cisco Packet Tracer.   
 
-Key Terms:
-LAN- Local Area Network, consists of 2-20 PCs within one location, such as a home office, small office, business etc.
+Key Terms:   
+LAN- Local Area Network, consists of 2-20 PCs within one location, such as a home office, small office, business etc.   
 
-Documentation:
+Documentation:   
 We began with setting up 6 PCs in 2 star formations, connected to one another through 2 switches.
-A switch is an OSI Level 2 device which can transfer data between connected devices. We mentioned Level 2 because in contrast to the hub, which transfers data from the original sender to all connected devices, switches work based on the CAM (Content Addressable Memory) table, which maps the physical MAC addresses of the devices to the associated port. Using these identifiers helps us overcome the limitations of a Level 1 Hub.
+A switch is an OSI Level 2 device which can transfer data between connected devices. We mentioned Level 2 because in contrast to the hub, which transfers data from the original sender to all connected devices, switches work based on the CAM (Content Addressable Memory) table, which maps the physical MAC addresses of the devices to the associated port. Using these identifiers helps us overcome the limitations of a Level 1 Hub.  
 
 (Image)
 

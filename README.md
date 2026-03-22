@@ -34,10 +34,8 @@ Documentation:
 We began with setting up 6 PCs in 2 star formations, connected to one another through 2 switches.
 A switch is an OSI Level 2 device which can transfer data between connected devices. We mentioned Level 2 because in contrast to the hub, which transfers data from the original sender to all connected devices, switches work based on the CAM (Content Addressable Memory) table, which maps the physical MAC addresses of the devices to the associated port. Using these identifiers helps us overcome the limitations of a Level 1 Hub.  
 
-(Image)
+![Command-Line](Screenshot 2026-03-22 110335.png)   
 
+![Sending Message](Screenshot 2026-03-22 111904.png)   
 
-(Image)
-
-
-(Image- IP Table)
+![IP Table](image__1_-removebg-preview.png)   
